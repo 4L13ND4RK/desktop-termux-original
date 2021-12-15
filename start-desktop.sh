@@ -1,4 +1,5 @@
 #forzando display o pantalla
+chmod 777 
 export DISPLAY=":1"
 export DISPLAY=":1"
 export DISPLAY=":1"
