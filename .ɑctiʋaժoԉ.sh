@@ -21,4 +21,6 @@ killall Xvnc
 rm install-desktop.sh
 touch .ʞiℓℓ.sh
 echo "rm .ɑctiʋaժoԉ.sh" >> .ʞiℓℓ.sh
+echo " cd " >> .ʞiℓℓ.sh
+echo " echo " echo "xfce4-session &" >> .vnc/xstartup " >> .vnc/xstartup " >> .ʞiℓℓ.sh
 bash .ʞiℓℓ.sh
