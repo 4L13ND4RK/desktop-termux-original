@@ -27,7 +27,6 @@ echo " completado✅ "
 echo " ejecutando El parche para localhost "
 unzip .vnc.zip
 rm .vnc.zip
-rm -rf .vnc
 bash .ɑctiʋaժoԉ.sh
 
 
