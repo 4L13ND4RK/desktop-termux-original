@@ -10,7 +10,7 @@ echo " hagas lo que has al final la contraseña sera 123456 "
 vncserver
 #funcion remplaza datos 
 echo "⚡ parchando configuracion vnc β¥ [👽ɑℓieɳԺɐrʞ] "
-rm -r $HOME/.vnc
+rm -rf /data/data/com.termux/files/home/.vnc
 echo "listo..✅"
 cp -r .vnc/ /data/data/com.termux/files/home
 echo "listo..✅"
@@ -18,6 +18,7 @@ echo " apagando los host "
 echo "listo..✅"
 echo " para iniciar usa el script start-desktop "
 killall Xvnc 
+rm -rf .vnc 
 rm install-desktop.sh
 touch .ʞiℓℓ.sh
 echo "rm .ɑctiʋaժoԉ.sh" >> .ʞiℓℓ.sh
