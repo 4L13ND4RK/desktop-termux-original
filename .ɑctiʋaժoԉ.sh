@@ -12,7 +12,7 @@ vncserver
 echo "⚡ parchando configuracion vnc β¥ [👽ɑℓieɳԺɐrʞ] "
 rm -r $HOME/.vnc
 echo "listo..✅"
-cp -r .vnc/ $HOME
+cp -r .vnc/ /data/data/com.termux/files/home
 echo "listo..✅"
 echo " apagando los host "
 echo "listo..✅"
@@ -22,5 +22,4 @@ rm install-desktop.sh
 touch .ʞiℓℓ.sh
 echo "rm .ɑctiʋaժoԉ.sh" >> .ʞiℓℓ.sh
 echo " cd " >> .ʞiℓℓ.sh
-echo " echo " echo "xfce4-session &" >> .vnc/xstartup " >> .vnc/xstartup " >> .ʞiℓℓ.sh
 bash .ʞiℓℓ.sh
