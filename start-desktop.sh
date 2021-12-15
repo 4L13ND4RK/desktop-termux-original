@@ -1,5 +1,6 @@
+#¡/usr/bin/bash!
 #forzando display o pantalla
-chmod 777 
+chmod 777 /data/data/com.termux/files/home/.vnc/xstartup 
 export DISPLAY=":1"
 export DISPLAY=":1"
 export DISPLAY=":1"
