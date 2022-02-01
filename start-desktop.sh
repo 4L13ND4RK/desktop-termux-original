@@ -12,6 +12,7 @@ echo "exportando el displey "
 export DISPLAY=":0"
 export DISPLAY=":0"
 echo "listo..✅"
+echo "USA EL SCRIPT STOP DESKTOP PARA DETENERLO"
 
 
 
