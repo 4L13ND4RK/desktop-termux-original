@@ -1,5 +1,14 @@
 #¡/usr/bin/bash!
 #activando el vnc 
+echo "▇▇▇▇▇▇▇▇▇▇▇▇"
+echo "█              █"
+echo "█              █"
+echo "█              █"
+echo "▉▅▅▅▅▅▅▅▅▣▅▉"
+echo "       ╙╤       "
+echo "        ╢          "
+echo " ▚▚▚▚▚▚▚▚▚▚▚▚ "
+echo "  ▚▚▚▚▚▚▚▚▚▚▚▚  "
 echo " iniciando  localhost nuevo usuario🧭"
 echo " pedira contraseña ⛔"
 echo " la contraseña es : 123456 "
