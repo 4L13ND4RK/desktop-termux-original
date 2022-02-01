@@ -1,6 +1,11 @@
 #¡/usr/bin/bash/!
 #funcion actualizar 
 echo " el alienigena 👽presenta interfaz virtual para termux "
+echo " /█████\           /▇\  "
+echo "  \███/            ▇▇▇\   "
+echo "    ▚        \▇▇/▞ /▇▇▇\    "
+echo "  /███\        \▇▇        "
+echo " \█████/         \▇          "
 echo " proceso actualizando repositorios⏳ "
 pkg update -y
 echo " listo..✅"
