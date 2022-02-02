@@ -36,9 +36,9 @@ echo " para iniciar usa el script start-desktop en la TERMUX "
 echo " ▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊"
 echo " ▊╨#root$->             ▊"
 echo " ▊bash                  ▊"
-echo " ▊  start-desktop       ▊"
+echo " ▊  start-desktop.sh    ▊"
 echo " ▊                      ▊"
-echo " ▊                      ▊"
+echo " ▊ 1                    ▊"
 echo " ▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊"
 killall Xvnc 
 cp /data/data/com.termux/files/home/.vnc/xstartup /data/data/com.termux/files/home 
