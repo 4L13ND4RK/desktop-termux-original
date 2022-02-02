@@ -15,6 +15,11 @@ echo " listo..✅"
 echo " instalando x11-repositorios 🕜"
 pkg install x11-repo -y
 echo "listo..✅"
+echo " /█████\           /▇\  "
+echo "  \███/            ▇▇▇\   "
+echo "    ▚        \▇▇/▞ /▇▇▇\    "
+echo "  /███\        \▇▇        "
+echo " \█████/         \▇          "
 echo "actualizando x11-repositorios 🕟"
 pkg update 
 echo "listo..✅"
@@ -22,7 +27,17 @@ pkg upgrade
 echo "listo..✅"
 echo " completado.. ✅"
 #comienza a instalar lo necesario 
-echo " instalando requerimentos ⏳"
+echo " instalando requerimentos ⏳"        
+echo "                                   ◤▲◥  "
+echo "                                  ◄ ⦿ ► "
+echo "                                   ◣▼◢    "      
+echo "    ░▒▒▒░░                                    "
+echo "  ░▒░\▒▢▒▒░                                  "
+echo "  ▒░▢▒\▒▒/▒▒       ⚫      . . .     ▁▆▆    "
+echo "   ▒░▒\▒▒▢▒       ▛▅▃▃☢.       . ▆/☢ ☢\▆  "
+echo "▁▁▁▁▁▓▁▁▁▁▁▁▁▁▁▊▎▁▁▁▁▁▁▁▁▁▁\.▆▆▁/ \ "
+echo "  /  / ▓ / / / / /▞ ▌ / / / / / / / \▁ ◤ ▔  "
+echo "▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔      
 echo " buscando paquetes 📦"
 pkg install git wget curl tigervnc unzip aterm xfce4 netsurf termux-api -y
 echo "listo..✅"
