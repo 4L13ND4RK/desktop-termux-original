@@ -39,7 +39,7 @@ echo "▁▁▁▁▁▓▁▁▁▁▁▁▁▁▁▊▎▁▁▁▁▁▁▁�
 echo "  /  / ▓ / / / / /▞ ▌ / / / / / / /  \▁ ◤ ▔  "
 echo "▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔ "     
 echo " buscando paquetes 📦"
-pkg install git wget curl tigervnc unzip aterm xfce4 netsurf termux-api -y
+pkg install git wget curl tigervnc unzip aterm xfce4 netsurf termux-api geany -y
 echo "listo..✅"
 pkg install openbox pypanel xorg-xsetroot -y
 echo " completado✅ "
