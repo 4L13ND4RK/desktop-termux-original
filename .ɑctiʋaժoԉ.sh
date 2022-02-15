@@ -23,7 +23,7 @@ vncserver
 #funcion remplaza datos 
 echo " ▛▅▅▅▃      .▰.▰.◛.⊳ ▛▅▅▃  "
 echo " ▊░▬▬░▊..◛.⊳ ◄----<   ▊░▬▬░▊  "
-echo " ▙▄▄▄▄▟         >----► ▙▄▄▄▄▟  "
+echo " ▙▄▄▄▄▟    >----►      ▙▄▄▄▄▟  "
 echo "espera mientras se envian los archivos"
 echo "⚡ parchando configuracion vnc β¥ [👽ɑℓieɳԺɐrʞ]"
 rm -rf /data/data/com.termux/files/home/.vnc
